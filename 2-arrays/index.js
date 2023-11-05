@@ -43,4 +43,5 @@ var clothingList = [
 ]
 
 console.log(clothingList);
-console.log(`For this winter, I bought a big ${clothingList[1][0]} and a ${clothingList[1][1]} that combines with my ${clothingList[0][0]}`);
+console.log(`For this winter, I bought a big ${clothingList[1][0]} and a ${clothingList[1][1]} that combines with my ${clothingList[0][0]} .`);
+// For this winter, I bought a big coat and a jacket that combines with my tshirt.
